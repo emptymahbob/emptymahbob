@@ -1,4 +1,4 @@
-<img align="center" height="150" src="https://media1.tenor.com/m/xLkmU4JRI7oAAAAC/wave-snorlax.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/xLkmU4JRI7oAAAAC/wave-snorlax.gif"  />
 <h1 align="center">Hi there, I'm Mahbob Alam</h1>
 
 <p align="center">
