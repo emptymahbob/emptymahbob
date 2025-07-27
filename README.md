@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Mahbob 👋</h1>
+<img align="center" height="150" src="https://media1.tenor.com/m/xLkmU4JRI7oAAAAC/wave-snorlax.gif"  />
+<h1 align="center">Hi there, I'm Mahbob Alam</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Cybersecurity+Enthusiast;Android+App+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
