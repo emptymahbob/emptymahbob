@@ -6,14 +6,14 @@
 
 ---
 
-- 🔭 I’m currently working on: `KhaddoBondhu` – a food-sharing Android app built with Java 🍱📱  
-- 🌱 I’m diving deeper into: **Android Development, Cybersecurity, Ethical Hacking**  
-- 💬 Ask me about: Android apps, penetration testing, or Bangladeshi traditional games 😉  
-- 📫 How to reach me: I'm `@emptymahbob` on all platforms – Telegram, GitHub, Twitter, HackerOne, and more  
+- I’m currently working on: `KhaddoBondhu` – a food-sharing Android app built with Java.
+- I’m diving deeper into: **Android Development, Cybersecurity, Ethical Hacking**  
+- Ask me about: Android apps, penetration testing/Bug Bounty Hunting.
+- How to reach me: I'm `@emptymahbob` on all platforms – Telegram, GitHub, Twitter, HackerOne, and more.
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://github.com/emptymahbob" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
@@ -24,7 +24,7 @@
 
 ---
 
-### ⚡ GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emptymahbob&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -46,7 +46,7 @@
 
 ---
 
-### 🎯 Goals for 2025
+### Goals for 2025
 
 - Build a real-world app to serve local communities  
 - Contribute to an open-source Android or cybersecurity project  
