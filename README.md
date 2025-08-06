@@ -1,13 +1,15 @@
-<img align="right" height="150" src="https://media1.tenor.com/m/htjYFNrNZzQAAAAC/yawn-snorlax.gif"  />
 <h1 align="center">Hi, I'm Mahbob Alam</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Cybersecurity+Enthusiast;Android+App+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
+  &nbsp; <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Cybersecurity+Enthusiast;Android+App+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img height="150" src="https://media1.tenor.com/m/htjYFNrNZzQAAAAC/yawn-snorlax.gif" />
 </p>
 
 ---
 
 - I’m currently working on: `KhaddoBondhu` – a food-sharing Android app built with Java.
-- I’m diving deeper into: **Android Development, Cybersecurity, Ethical Hacking**  
+- I’m diving deeper into: **Android Development, Cybersecurity, Ethical Hacking**
 - Ask me about: Android apps, penetration testing/Bug Bounty Hunting.
 - How to reach me: I'm `@emptymahbob` on all platforms – Telegram, Twitter, HackerOne, and more.
 
@@ -48,9 +50,9 @@
 
 ### Goals for 2025
 
-- Build a real-world app to serve local communities  
-- Contribute to an open-source Android or cybersecurity project  
-- Graduate from DIU with hands-on skills in **infosec and development**  
+- Build a real-world app to serve local communities
+- Contribute to an open-source Android or cybersecurity project
+- Graduate from DIU with hands-on skills in **infosec and development**
 
 ---
 
