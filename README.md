@@ -8,7 +8,7 @@
 
 ---
 
-- I’m currently working on: `KhaddoBondhu` – a food-sharing Android app built with Java.
+- I’m currently working on: `OmniRecon` – a web based recon tools.
 - I’m diving deeper into: **Android Development, Cybersecurity, Ethical Hacking**
 - Ask me about: Android apps, penetration testing/Bug Bounty Hunting.
 - How to reach me: I'm `@emptymahbob` on all platforms – Telegram, Twitter, HackerOne, and more.
